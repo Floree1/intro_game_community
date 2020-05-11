@@ -6,7 +6,7 @@ Website with an introduction to the gaming community || Sitio web con una introd
 
 *On this website only the basic information of the community will be shown and what servers would have a simple and highly interactive website.
 
-[ESP]
+//[ESP]
 
 Contenido:
 
@@ -25,7 +25,7 @@ problema que tengas o que puedas tener.
 
 -Footer sencillo.
 
-[ENG]
+//[ENG]
 
 Content:
 
